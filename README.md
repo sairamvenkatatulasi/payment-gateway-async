@@ -313,7 +313,7 @@ API Authentication: All protected endpoints require valid API key and secret
 
 No Sensitive Data Storage: Card CVV and full card numbers are never stored
 
-Payment Validation: VPA format, Luhn algorithm, card expiry validation
+Payment Validation  VPA format, Luhn algorithm, card expiry validation
 
 Test Mode: Configurable test mode for evaluation purposes
 
